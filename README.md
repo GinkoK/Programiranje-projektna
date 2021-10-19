@@ -3,10 +3,10 @@ Projektna naloga za programiranje
 
 Analiza animiranih televizijskih serij
 
-Analiziral bom animeje, ki so začeli iyhajati po letu 2000 na spletnih straneh
+Analiziral bom animirane serije, ki so začele izhajati po letu 2000 na spletnih straneh
 [MAL] https://myanimelist.net/anime/season/{leto}/{letni čas} (npr. /2021/winter)
 
-Za vsak anime bom zajel:
+Za vsako serijo bom zajel:
 - naslov
 - studio
 - dolžino
@@ -20,5 +20,5 @@ Delovne hipoteze:
 - Ali žanr vpliva na ocene in popularnost?
 - Ali lahko iz dolžine ali vsebine naslova ugotovimo vir?
 - Ali je ocena odvisna od vira?
-- Ali studii delajo raznolike animeje, ali se specializirajo za določene žanre?
-- Ali se spreminja delež virov glede na čas_
+- Ali studii delajo raznolike serije glede na žanr, ali se specializirajo za določene žanre?
+- Ali se spreminja delež virov glede na čas?
