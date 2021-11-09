@@ -24,4 +24,4 @@ Delovne hipoteze:
 - Ali se spreminja delež virov glede na čas?
 
 
-Zaenkrat imam tri CSV datoteke, ena osnovna ki vsebuje podatke iz jsona (serije.csv), studii.csv ki iidentificira studije s posameznimi identitetami za lažjo obdelavo podatkov, ter zanri.csv, ki vsakii seriji pripiše žanre.
+Zaenkrat imam tri CSV datoteke, ena osnovna ki vsebuje podatke iz jsona (serije.csv), studii.csv ki iidentificira studije s posameznimi identitetami za lažjo obdelavo podatkov, ter zanri.csv, ki vsakii seriji pripiše žanre v obliki številk.
