@@ -33,7 +33,7 @@ vzorec = (
     r'.*?<span class="member fl-r" title="Members">\D+'
     r'(?P<stevilo>.*?)'
     r'\s+'
-    r'.*?title="Score">\D+'
+    r'.*?title="Score">\W+'
     r'(?P<ocena>.*?)'
     r'\s+'
 )

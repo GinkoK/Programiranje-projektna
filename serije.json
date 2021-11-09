@@ -305,7 +305,7 @@
     "id": "25063",
     "tip": "TV",
     "stevilo": "261",
-    "ocena": "0"
+    "ocena": "N/A"
   },
   {
     "zanri": "4,22,24,9,35",
@@ -360,7 +360,7 @@
     "id": "48347",
     "tip": "TV",
     "stevilo": "79",
-    "ocena": "0"
+    "ocena": "N/A"
   },
   {
     "zanri": "1,2,4,10,22,37,6,13,27",
@@ -547,7 +547,7 @@
     "id": "48904",
     "tip": "TV",
     "stevilo": "60",
-    "ocena": "0"
+    "ocena": "N/A"
   },
   {
     "zanri": "1,30,17,27",
@@ -646,7 +646,7 @@
     "id": "34490",
     "tip": "TV",
     "stevilo": "245",
-    "ocena": "0"
+    "ocena": "N/A"
   },
   {
     "zanri": "2,4,8,10,27",
@@ -998,7 +998,18 @@
     "id": "7960",
     "tip": "TV",
     "stevilo": "720",
-    "ocena": "1,2,10\"><div>"
+    "ocena": "N/A"
+  },
+  {
+    "zanri": "1,2,10",
+    "naslov": "Gyouten Ningen Batsealer",
+    "studio": "-",
+    "dolzina": "52",
+    "vir": "-",
+    "id": "7109",
+    "tip": "TV",
+    "stevilo": "484",
+    "ocena": "6.47"
   },
   {
     "zanri": "4,7",
@@ -1009,7 +1020,18 @@
     "id": "17487",
     "tip": "TV",
     "stevilo": "254",
-    "ocena": "1,4,18\"><div>"
+    "ocena": "N/A"
+  },
+  {
+    "zanri": "1,4,18",
+    "naslov": "Taeng-gu &amp; Ulasyong",
+    "studio": "-",
+    "dolzina": "26",
+    "vir": "Original",
+    "id": "32590",
+    "tip": "TV",
+    "stevilo": "213",
+    "ocena": "N/A"
   },
   {
     "zanri": "4,8,22,36,37,25",
@@ -1141,7 +1163,18 @@
     "id": "4940",
     "tip": "TV",
     "stevilo": "461",
-    "ocena": "4\"><div>"
+    "ocena": "N/A"
+  },
+  {
+    "zanri": "4",
+    "naslov": "Mini Moni Yaru no da Pyon!",
+    "studio": "-",
+    "dolzina": "66",
+    "vir": "Other",
+    "id": "7452",
+    "tip": "TV",
+    "stevilo": "387",
+    "ocena": "5.38"
   },
   {
     "zanri": "2,10",
@@ -1152,7 +1185,7 @@
     "id": "32580",
     "tip": "TV",
     "stevilo": "261",
-    "ocena": "0"
+    "ocena": "N/A"
   },
   {
     "zanri": "1,14,37,32,42",
@@ -1603,7 +1636,7 @@
     "id": "7525",
     "tip": "TV",
     "stevilo": "396",
-    "ocena": "0"
+    "ocena": "N/A"
   },
   {
     "zanri": "4,8,22,24,9,42",
@@ -1878,7 +1911,18 @@
     "id": "31054",
     "tip": "TV",
     "stevilo": "373",
-    "ocena": "30\"><div>"
+    "ocena": "N/A"
+  },
+  {
+    "zanri": "30",
+    "naslov": "Forza! Hidemaru",
+    "studio": "-",
+    "dolzina": "26",
+    "vir": "-",
+    "id": "18005",
+    "tip": "TV",
+    "stevilo": "345",
+    "ocena": "N/A"
   },
   {
     "zanri": "4,8,10,7,22",
@@ -2252,7 +2296,7 @@
     "id": "5473",
     "tip": "TV",
     "stevilo": "392",
-    "ocena": "10,15\"><div>"
+    "ocena": "N/A"
   },
   {
     "zanri": "1,2,8,10,7,24",
@@ -2439,7 +2483,18 @@
     "id": "18447",
     "tip": "TV",
     "stevilo": "573",
-    "ocena": "4,24\"><div>"
+    "ocena": "N/A"
+  },
+  {
+    "zanri": "4,24",
+    "naslov": "DigiGirl Pop!: Strawberry &amp; Pop Mix Flavor",
+    "studio": "Creators Dot Com",
+    "dolzina": "26",
+    "vir": "-",
+    "id": "7750",
+    "tip": "TV",
+    "stevilo": "424",
+    "ocena": "N/A"
   },
   {
     "zanri": "1,2,36,40",
@@ -2747,7 +2802,18 @@
     "id": "2735",
     "tip": "TV",
     "stevilo": "420",
-    "ocena": "4,10\"><div>"
+    "ocena": "N/A"
+  },
+  {
+    "zanri": "4,10",
+    "naslov": "Wonder Bebil-kun",
+    "studio": "Radix",
+    "dolzina": "30",
+    "vir": "-",
+    "id": "12809",
+    "tip": "TV",
+    "stevilo": "282",
+    "ocena": "N/A"
   },
   {
     "zanri": "4,36",
@@ -2758,7 +2824,7 @@
     "id": "20123",
     "tip": "TV",
     "stevilo": "253",
-    "ocena": "0"
+    "ocena": "N/A"
   },
   {
     "zanri": "1,4,23",
@@ -2912,7 +2978,7 @@
     "id": "39936",
     "tip": "TV",
     "stevilo": "314",
-    "ocena": "0"
+    "ocena": "N/A"
   },
   {
     "zanri": "1,2,4,8,10,38,27",
@@ -3253,7 +3319,7 @@
     "id": "7751",
     "tip": "TV",
     "stevilo": "702",
-    "ocena": "15\"><div>"
+    "ocena": "N/A"
   },
   {
     "zanri": "5,8,7,37,41,39,40",
@@ -3484,7 +3550,7 @@
     "id": "48260",
     "tip": "TV",
     "stevilo": "37",
-    "ocena": "0"
+    "ocena": "N/A"
   },
   {
     "zanri": "1,2,4,13,21,27",
@@ -4518,7 +4584,18 @@
     "id": "35817",
     "tip": "TV",
     "stevilo": "207",
-    "ocena": "4\"><div>"
+    "ocena": "N/A"
+  },
+  {
+    "zanri": "4",
+    "naslov": "Ton-Ton Atta to Niigata no Mukashibanashi",
+    "studio": "-",
+    "dolzina": "13",
+    "vir": "-",
+    "id": "10242",
+    "tip": "TV",
+    "stevilo": "191",
+    "ocena": "N/A"
   },
   {
     "zanri": "8,22,36,37",
@@ -4760,7 +4837,7 @@
     "id": "25809",
     "tip": "TV",
     "stevilo": "282",
-    "ocena": "4,15\"><div>"
+    "ocena": "N/A"
   },
   {
     "zanri": "36",
@@ -4771,7 +4848,7 @@
     "id": "31696",
     "tip": "TV",
     "stevilo": "187",
-    "ocena": "10,15\"><div>"
+    "ocena": "N/A"
   },
   {
     "zanri": "2,8,22,24,18",
@@ -5112,7 +5189,7 @@
     "id": "30138",
     "tip": "TV",
     "stevilo": "196",
-    "ocena": "15\"><div>"
+    "ocena": "N/A"
   },
   {
     "zanri": "4,8,10,22,9,35,23,42",
@@ -5332,7 +5409,7 @@
     "id": "9070",
     "tip": "TV",
     "stevilo": "331",
-    "ocena": "2,15\"><div>"
+    "ocena": "N/A"
   },
   {
     "zanri": "2,10,7,36,37,13,42",
@@ -5970,7 +6047,7 @@
     "id": "3769",
     "tip": "TV",
     "stevilo": "483",
-    "ocena": "15\"><div>"
+    "ocena": "N/A"
   },
   {
     "zanri": "1,2,3",
@@ -5981,7 +6058,7 @@
     "id": "33670",
     "tip": "TV",
     "stevilo": "283",
-    "ocena": "36,15\"><div>"
+    "ocena": "N/A"
   },
   {
     "zanri": "8",
@@ -5992,7 +6069,7 @@
     "id": "44167",
     "tip": "TV",
     "stevilo": "24",
-    "ocena": "0"
+    "ocena": "N/A"
   },
   {
     "zanri": "4,22,35,23,25",
@@ -6652,7 +6729,7 @@
     "id": "3414",
     "tip": "TV",
     "stevilo": "312",
-    "ocena": "15\"><div>"
+    "ocena": "N/A"
   },
   {
     "zanri": "4,20",
@@ -6663,7 +6740,18 @@
     "id": "13503",
     "tip": "TV",
     "stevilo": "278",
-    "ocena": "4,13\"><div>"
+    "ocena": "N/A"
+  },
+  {
+    "zanri": "4,13",
+    "naslov": "McDull: Chuntian Huahua Zhonghua Bowuguan",
+    "studio": "-",
+    "dolzina": "5",
+    "vir": "-",
+    "id": "9821",
+    "tip": "TV",
+    "stevilo": "239",
+    "ocena": "N/A"
   },
   {
     "zanri": "4",
@@ -6674,7 +6762,7 @@
     "id": "32417",
     "tip": "TV",
     "stevilo": "170",
-    "ocena": "0"
+    "ocena": "N/A"
   },
   {
     "zanri": "1,2,4,10,22,9,35,23",
@@ -6927,7 +7015,7 @@
     "id": "7629",
     "tip": "TV",
     "stevilo": "222",
-    "ocena": "4,36,15\"><div>"
+    "ocena": "N/A"
   },
   {
     "zanri": "7,37,41,39,40,27",
@@ -7422,7 +7510,18 @@
     "id": "1863",
     "tip": "TV",
     "stevilo": "531",
-    "ocena": "4\"><div>"
+    "ocena": "N/A"
+  },
+  {
+    "zanri": "4",
+    "naslov": "Funny Pets 2nd Season",
+    "studio": "-",
+    "dolzina": "12",
+    "vir": "Original",
+    "id": "22345",
+    "tip": "TV",
+    "stevilo": "406",
+    "ocena": "5.42"
   },
   {
     "zanri": "4,36",
@@ -7433,7 +7532,18 @@
     "id": "8345",
     "tip": "TV",
     "stevilo": "328",
-    "ocena": "2\"><div>"
+    "ocena": "N/A"
+  },
+  {
+    "zanri": "2",
+    "naslov": "RGB Adventure",
+    "studio": "-",
+    "dolzina": "6",
+    "vir": "-",
+    "id": "3372",
+    "tip": "TV",
+    "stevilo": "264",
+    "ocena": "N/A"
   },
   {
     "zanri": "1,2,4,17,31,27",
@@ -7686,7 +7796,18 @@
     "id": "41115",
     "tip": "TV",
     "stevilo": "185",
-    "ocena": "4\"><div>"
+    "ocena": "N/A"
+  },
+  {
+    "zanri": "4",
+    "naslov": "Dennou Senshi Dokan-kun",
+    "studio": "DLE",
+    "dolzina": "11",
+    "vir": "-",
+    "id": "36881",
+    "tip": "TV",
+    "stevilo": "162",
+    "ocena": "N/A"
   },
   {
     "zanri": "4,8,13,20",
@@ -7697,7 +7818,18 @@
     "id": "41118",
     "tip": "TV",
     "stevilo": "143",
-    "ocena": "4,36\"><div>"
+    "ocena": "N/A"
+  },
+  {
+    "zanri": "4,36",
+    "naslov": "Olga no Russia Gokouza",
+    "studio": "DLE",
+    "dolzina": "11",
+    "vir": "Original",
+    "id": "41114",
+    "tip": "TV",
+    "stevilo": "102",
+    "ocena": "N/A"
   },
   {
     "zanri": "4,20",
@@ -7708,7 +7840,7 @@
     "id": "41156",
     "tip": "TV",
     "stevilo": "84",
-    "ocena": "2,10,15\"><div>"
+    "ocena": "N/A"
   },
   {
     "zanri": "1,2,4,24,18",
@@ -8258,7 +8390,7 @@
     "id": "19467",
     "tip": "TV",
     "stevilo": "595",
-    "ocena": "15\"><div>"
+    "ocena": "N/A"
   },
   {
     "zanri": "11",
@@ -8269,7 +8401,7 @@
     "id": "20087",
     "tip": "TV",
     "stevilo": "334",
-    "ocena": "4,15\"><div>"
+    "ocena": "N/A"
   },
   {
     "zanri": "4",
@@ -8280,7 +8412,7 @@
     "id": "32418",
     "tip": "TV",
     "stevilo": "166",
-    "ocena": "2,15\"><div>"
+    "ocena": "N/A"
   },
   {
     "zanri": "1,4,7,37,13",
@@ -8522,7 +8654,18 @@
     "id": "38568",
     "tip": "TV",
     "stevilo": "125",
-    "ocena": "8,3,13,20\"><div>"
+    "ocena": "N/A"
+  },
+  {
+    "zanri": "8,3,13,20",
+    "naslov": "Gozonji! Kakuza Tousan",
+    "studio": "-",
+    "dolzina": "11",
+    "vir": "Original",
+    "id": "41117",
+    "tip": "TV",
+    "stevilo": "107",
+    "ocena": "N/A"
   },
   {
     "zanri": "4,8,22,36,37,23",
@@ -8874,7 +9017,18 @@
     "id": "3164",
     "tip": "TV",
     "stevilo": "450",
-    "ocena": "4,24\"><div>"
+    "ocena": "N/A"
+  },
+  {
+    "zanri": "4,24",
+    "naslov": "Hoshi Shinichi Short Short",
+    "studio": "Echoes",
+    "dolzina": "26",
+    "vir": "Book",
+    "id": "8191",
+    "tip": "TV",
+    "stevilo": "339",
+    "ocena": "N/A"
   },
   {
     "zanri": "4,42",
@@ -8885,7 +9039,18 @@
     "id": "3243",
     "tip": "TV",
     "stevilo": "254",
-    "ocena": "4\"><div>"
+    "ocena": "N/A"
+  },
+  {
+    "zanri": "4",
+    "naslov": "Tensai? Dr. Hamax",
+    "studio": "Trans Arts",
+    "dolzina": "12",
+    "vir": "Original",
+    "id": "2930",
+    "tip": "TV",
+    "stevilo": "246",
+    "ocena": "N/A"
   },
   {
     "zanri": "13",
@@ -8896,7 +9061,7 @@
     "id": "40273",
     "tip": "TV",
     "stevilo": "97",
-    "ocena": "0"
+    "ocena": "N/A"
   },
   {
     "zanri": "2,10,22,13",
@@ -9138,7 +9303,7 @@
     "id": "3514",
     "tip": "TV",
     "stevilo": "920",
-    "ocena": "14,3,15\"><div>"
+    "ocena": "N/A"
   },
   {
     "zanri": "4",
@@ -9149,7 +9314,7 @@
     "id": "3500",
     "tip": "TV",
     "stevilo": "293",
-    "ocena": "15\"><div>"
+    "ocena": "N/A"
   },
   {
     "zanri": "4,18",
@@ -9160,7 +9325,7 @@
     "id": "38569",
     "tip": "TV",
     "stevilo": "124",
-    "ocena": "4,15\"><div>"
+    "ocena": "N/A"
   },
   {
     "zanri": "4,8,13,20",
@@ -9171,7 +9336,7 @@
     "id": "41116",
     "tip": "TV",
     "stevilo": "78",
-    "ocena": "0"
+    "ocena": "N/A"
   },
   {
     "zanri": "1,8,24,18,38,31",
@@ -9622,7 +9787,7 @@
     "id": "3975",
     "tip": "TV",
     "stevilo": "573",
-    "ocena": "15\"><div>"
+    "ocena": "N/A"
   },
   {
     "zanri": "36",
@@ -9633,7 +9798,7 @@
     "id": "13177",
     "tip": "TV",
     "stevilo": "456",
-    "ocena": "2,4,10,15\"><div>"
+    "ocena": "N/A"
   },
   {
     "zanri": "4",
@@ -9644,7 +9809,7 @@
     "id": "29746",
     "tip": "TV",
     "stevilo": "187",
-    "ocena": "17,15\"><div>"
+    "ocena": "N/A"
   },
   {
     "zanri": "4,18",
@@ -9655,7 +9820,7 @@
     "id": "38570",
     "tip": "TV",
     "stevilo": "122",
-    "ocena": "4,15\"><div>"
+    "ocena": "N/A"
   },
   {
     "zanri": "8,36,37,6,25",
@@ -9875,7 +10040,18 @@
     "id": "4547",
     "tip": "TV",
     "stevilo": "287",
-    "ocena": "4\"><div>"
+    "ocena": "N/A"
+  },
+  {
+    "zanri": "4",
+    "naslov": "Chibinacs 3",
+    "studio": "-",
+    "dolzina": "25",
+    "vir": "Other",
+    "id": "32419",
+    "tip": "TV",
+    "stevilo": "177",
+    "ocena": "N/A"
   },
   {
     "zanri": "4,22,36,23",
@@ -10315,7 +10491,18 @@
     "id": "4905",
     "tip": "TV",
     "stevilo": "612",
-    "ocena": "4,9\"><div>"
+    "ocena": "N/A"
+  },
+  {
+    "zanri": "4,9",
+    "naslov": "Zettai Yareru Greece Shinwa",
+    "studio": "A-1 Pictures",
+    "dolzina": "13",
+    "vir": "Original",
+    "id": "5234",
+    "tip": "TV",
+    "stevilo": "611",
+    "ocena": "N/A"
   },
   {
     "zanri": "4,20,31,27",
@@ -10326,7 +10513,18 @@
     "id": "19501",
     "tip": "TV",
     "stevilo": "333",
-    "ocena": "4\"><div>"
+    "ocena": "N/A"
+  },
+  {
+    "zanri": "4",
+    "naslov": "Noramimi 2",
+    "studio": "-",
+    "dolzina": "13",
+    "vir": "Manga",
+    "id": "5089",
+    "tip": "TV",
+    "stevilo": "327",
+    "ocena": "N/A"
   },
   {
     "zanri": "2,4,13",
@@ -10337,7 +10535,7 @@
     "id": "5184",
     "tip": "TV",
     "stevilo": "317",
-    "ocena": "4,15\"><div>"
+    "ocena": "N/A"
   },
   {
     "zanri": "4,8,30,27",
@@ -10601,7 +10799,18 @@
     "id": "5810",
     "tip": "TV",
     "stevilo": "507",
-    "ocena": "4\"><div>"
+    "ocena": "N/A"
+  },
+  {
+    "zanri": "4",
+    "naslov": "Yume wo Kanaeru Zou",
+    "studio": "Studio Deen",
+    "dolzina": "12",
+    "vir": "Manga",
+    "id": "5841",
+    "tip": "TV",
+    "stevilo": "384",
+    "ocena": "N/A"
   },
   {
     "zanri": "4",
@@ -10612,7 +10821,7 @@
     "id": "33123",
     "tip": "TV",
     "stevilo": "191",
-    "ocena": "2,15\"><div>"
+    "ocena": "N/A"
   },
   {
     "zanri": "1,2,4,8,10,38,27",
@@ -11030,7 +11239,7 @@
     "id": "48318",
     "tip": "TV",
     "stevilo": "66",
-    "ocena": "7,23,15\"><div>"
+    "ocena": "N/A"
   },
   {
     "zanri": "7,22,37,32",
@@ -11272,7 +11481,7 @@
     "id": "29003",
     "tip": "TV",
     "stevilo": "228",
-    "ocena": "15\"><div>"
+    "ocena": "N/A"
   },
   {
     "zanri": "13",
@@ -11283,7 +11492,7 @@
     "id": "31547",
     "tip": "TV",
     "stevilo": "205",
-    "ocena": "10,24,31,15\"><div>"
+    "ocena": "N/A"
   },
   {
     "zanri": "1,2,4,10,27",
@@ -11624,7 +11833,18 @@
     "id": "7175",
     "tip": "TV",
     "stevilo": "513",
-    "ocena": "4\"><div>"
+    "ocena": "N/A"
+  },
+  {
+    "zanri": "4",
+    "naslov": "Kotatsu Neko (TV)",
+    "studio": "-",
+    "dolzina": "26",
+    "vir": "Other",
+    "id": "7189",
+    "tip": "TV",
+    "stevilo": "466",
+    "ocena": "N/A"
   },
   {
     "zanri": "4",
@@ -11635,7 +11855,18 @@
     "id": "7177",
     "tip": "TV",
     "stevilo": "424",
-    "ocena": "36\"><div>"
+    "ocena": "N/A"
+  },
+  {
+    "zanri": "36",
+    "naslov": "Wala! Pyeon-uijeom The Animation",
+    "studio": "-",
+    "dolzina": "24",
+    "vir": "Web manga",
+    "id": "17106",
+    "tip": "TV",
+    "stevilo": "280",
+    "ocena": "N/A"
   },
   {
     "zanri": "4",
@@ -11646,7 +11877,7 @@
     "id": "13505",
     "tip": "TV",
     "stevilo": "266",
-    "ocena": "2,15\"><div>"
+    "ocena": "N/A"
   },
   {
     "zanri": "1,7,37",
@@ -11866,7 +12097,18 @@
     "id": "8025",
     "tip": "TV",
     "stevilo": "453",
-    "ocena": "4\"><div>"
+    "ocena": "N/A"
+  },
+  {
+    "zanri": "4",
+    "naslov": "Unko-san: Tsuiteru Hito ni Shika Mienai Yousei Junjou Ha",
+    "studio": "Kachidoki Studio",
+    "dolzina": "13",
+    "vir": "Original",
+    "id": "33085",
+    "tip": "TV",
+    "stevilo": "309",
+    "ocena": "N/A"
   },
   {
     "zanri": "4",
@@ -11877,7 +12119,7 @@
     "id": "7211",
     "tip": "TV",
     "stevilo": "308",
-    "ocena": "1,24,18,15\"><div>"
+    "ocena": "N/A"
   },
   {
     "zanri": "1,4,8,37,23",
@@ -12218,7 +12460,7 @@
     "id": "8353",
     "tip": "TV",
     "stevilo": "434",
-    "ocena": "15\"><div>"
+    "ocena": "N/A"
   },
   {
     "zanri": "36",
@@ -12229,7 +12471,7 @@
     "id": "13179",
     "tip": "TV",
     "stevilo": "336",
-    "ocena": "2,10,15\"><div>"
+    "ocena": "N/A"
   },
   {
     "zanri": "2,4,20",
@@ -12240,7 +12482,7 @@
     "id": "24041",
     "tip": "TV",
     "stevilo": "198",
-    "ocena": "15\"><div>"
+    "ocena": "N/A"
   },
   {
     "zanri": "1,14,37,9,27",
@@ -12471,7 +12713,7 @@
     "id": "9345",
     "tip": "TV",
     "stevilo": "825",
-    "ocena": "3,15\"><div>"
+    "ocena": "N/A"
   },
   {
     "zanri": "4,36",
@@ -12801,7 +13043,18 @@
     "id": "9518",
     "tip": "TV",
     "stevilo": "499",
-    "ocena": "36\"><div>"
+    "ocena": "N/A"
+  },
+  {
+    "zanri": "36",
+    "naslov": "Rita to Nantoka",
+    "studio": "Nippon Animation",
+    "dolzina": "26",
+    "vir": "Picture book",
+    "id": "6195",
+    "tip": "TV",
+    "stevilo": "478",
+    "ocena": "N/A"
   },
   {
     "zanri": "4,20",
@@ -12812,7 +13065,7 @@
     "id": "9562",
     "tip": "TV",
     "stevilo": "285",
-    "ocena": "0"
+    "ocena": "N/A"
   },
   {
     "zanri": "8,41,40",
@@ -13065,7 +13318,7 @@
     "id": "11733",
     "tip": "TV",
     "stevilo": "295",
-    "ocena": "15\"><div>"
+    "ocena": "N/A"
   },
   {
     "zanri": "8,24,41,40",
@@ -13593,7 +13846,18 @@
     "id": "10459",
     "tip": "TV",
     "stevilo": "909",
-    "ocena": "4\"><div>"
+    "ocena": "N/A"
+  },
+  {
+    "zanri": "4",
+    "naslov": "Genki!! Ekoda-chan",
+    "studio": "DLE",
+    "dolzina": "22",
+    "vir": "4-koma manga",
+    "id": "10540",
+    "tip": "TV",
+    "stevilo": "887",
+    "ocena": "5.75"
   },
   {
     "zanri": "4,20",
@@ -13615,7 +13879,18 @@
     "id": "10506",
     "tip": "TV",
     "stevilo": "585",
-    "ocena": "4\"><div>"
+    "ocena": "N/A"
+  },
+  {
+    "zanri": "4",
+    "naslov": "Shuukan Shimakou",
+    "studio": "DLE",
+    "dolzina": "11",
+    "vir": "-",
+    "id": "10541",
+    "tip": "TV",
+    "stevilo": "547",
+    "ocena": "N/A"
   },
   {
     "zanri": "4",
@@ -13626,7 +13901,7 @@
     "id": "10533",
     "tip": "TV",
     "stevilo": "495",
-    "ocena": "4,15\"><div>"
+    "ocena": "N/A"
   },
   {
     "zanri": "4",
@@ -13637,7 +13912,18 @@
     "id": "10633",
     "tip": "TV",
     "stevilo": "271",
-    "ocena": "4\"><div>"
+    "ocena": "N/A"
+  },
+  {
+    "zanri": "4",
+    "naslov": "Sockies: Frontier Quest",
+    "studio": "-",
+    "dolzina": "39",
+    "vir": "-",
+    "id": "8143",
+    "tip": "TV",
+    "stevilo": "265",
+    "ocena": "N/A"
   },
   {
     "zanri": "1,24,18",
@@ -13648,7 +13934,7 @@
     "id": "41417",
     "tip": "TV",
     "stevilo": "66",
-    "ocena": "4,15\"><div>"
+    "ocena": "N/A"
   },
   {
     "zanri": "4,22,9,35,23",
@@ -13978,7 +14264,18 @@
     "id": "10797",
     "tip": "TV",
     "stevilo": "423",
-    "ocena": "4\"><div>"
+    "ocena": "N/A"
+  },
+  {
+    "zanri": "4",
+    "naslov": "Puu-Neko Shougekijou",
+    "studio": "-",
+    "dolzina": "11",
+    "vir": "-",
+    "id": "11589",
+    "tip": "TV",
+    "stevilo": "381",
+    "ocena": "N/A"
   },
   {
     "zanri": "4",
@@ -13989,7 +14286,18 @@
     "id": "11609",
     "tip": "TV",
     "stevilo": "365",
-    "ocena": "36\"><div>"
+    "ocena": "N/A"
+  },
+  {
+    "zanri": "36",
+    "naslov": "Hello Jadoo",
+    "studio": "-",
+    "dolzina": "122",
+    "vir": "Original",
+    "id": "35920",
+    "tip": "TV",
+    "stevilo": "309",
+    "ocena": "N/A"
   },
   {
     "zanri": "4",
@@ -14000,7 +14308,7 @@
     "id": "10995",
     "tip": "TV",
     "stevilo": "269",
-    "ocena": "15\"><div>"
+    "ocena": "N/A"
   },
   {
     "zanri": "1,2,10,31,27",
@@ -14352,7 +14660,18 @@
     "id": "11541",
     "tip": "TV",
     "stevilo": "980",
-    "ocena": "4\"><div>"
+    "ocena": "N/A"
+  },
+  {
+    "zanri": "4",
+    "naslov": "Fujilog 2nd Season",
+    "studio": "-",
+    "dolzina": "13",
+    "vir": "-",
+    "id": "10997",
+    "tip": "TV",
+    "stevilo": "339",
+    "ocena": "N/A"
   },
   {
     "zanri": "4,13,20",
@@ -14363,7 +14682,7 @@
     "id": "12181",
     "tip": "TV",
     "stevilo": "310",
-    "ocena": "4,13,15\"><div>"
+    "ocena": "N/A"
   },
   {
     "zanri": "4,18",
@@ -14374,7 +14693,7 @@
     "id": "38571",
     "tip": "TV",
     "stevilo": "136",
-    "ocena": "15\"><div>"
+    "ocena": "N/A"
   },
   {
     "zanri": "14,7,37,41,23",
@@ -14660,7 +14979,18 @@
     "id": "34129",
     "tip": "TV",
     "stevilo": "529",
-    "ocena": "4,13,20\"><div>"
+    "ocena": "N/A"
+  },
+  {
+    "zanri": "4,13,20",
+    "naslov": "Himitsukessha Taka no Tsume Gaiden: Mukashi no Yoshida-kun",
+    "studio": "-",
+    "dolzina": "9",
+    "vir": "-",
+    "id": "13207",
+    "tip": "TV",
+    "stevilo": "431",
+    "ocena": "5.85"
   },
   {
     "zanri": "7,36,23",
@@ -15155,7 +15485,7 @@
     "id": "13431",
     "tip": "TV",
     "stevilo": "470",
-    "ocena": "2,4,10,15\"><div>"
+    "ocena": "N/A"
   },
   {
     "zanri": "4",
@@ -15166,7 +15496,7 @@
     "id": "13455",
     "tip": "TV",
     "stevilo": "318",
-    "ocena": "15\"><div>"
+    "ocena": "N/A"
   },
   {
     "zanri": "4",
@@ -15177,7 +15507,7 @@
     "id": "22585",
     "tip": "TV",
     "stevilo": "253",
-    "ocena": "15\"><div>"
+    "ocena": "N/A"
   },
   {
     "zanri": "4,36",
@@ -15188,7 +15518,18 @@
     "id": "35317",
     "tip": "TV",
     "stevilo": "242",
-    "ocena": "4\"><div>"
+    "ocena": "N/A"
+  },
+  {
+    "zanri": "4",
+    "naslov": "Ribbon-chan",
+    "studio": "-",
+    "dolzina": "24",
+    "vir": "-",
+    "id": "13459",
+    "tip": "TV",
+    "stevilo": "225",
+    "ocena": "N/A"
   },
   {
     "zanri": "1,2,10,22,11",
@@ -15914,7 +16255,18 @@
     "id": "30151",
     "tip": "TV",
     "stevilo": "809",
-    "ocena": "4\"><div>"
+    "ocena": "N/A"
+  },
+  {
+    "zanri": "4",
+    "naslov": "Ikeike! Momon-chan",
+    "studio": "-",
+    "dolzina": "15",
+    "vir": "Original",
+    "id": "18133",
+    "tip": "TV",
+    "stevilo": "747",
+    "ocena": "5.43"
   },
   {
     "zanri": "19",
@@ -15925,7 +16277,7 @@
     "id": "15787",
     "tip": "TV",
     "stevilo": "655",
-    "ocena": "4,15\"><div>"
+    "ocena": "N/A"
   },
   {
     "zanri": "1,4,10,37",
@@ -16332,7 +16684,7 @@
     "id": "16908",
     "tip": "TV",
     "stevilo": "281",
-    "ocena": "2,15\"><div>"
+    "ocena": "N/A"
   },
   {
     "zanri": "1,8,10,7,38,31,27",
@@ -16772,7 +17124,18 @@
     "id": "17703",
     "tip": "TV",
     "stevilo": "874",
-    "ocena": "4,18\"><div>"
+    "ocena": "N/A"
+  },
+  {
+    "zanri": "4,18",
+    "naslov": "Mazinger ZIP!",
+    "studio": "Kate Arrow",
+    "dolzina": "237",
+    "vir": "-",
+    "id": "18365",
+    "tip": "TV",
+    "stevilo": "865",
+    "ocena": "5.49"
   },
   {
     "zanri": "4,25",
@@ -16805,7 +17168,18 @@
     "id": "18227",
     "tip": "TV",
     "stevilo": "477",
-    "ocena": "8,42\"><div>"
+    "ocena": "N/A"
+  },
+  {
+    "zanri": "8,42",
+    "naslov": "Shima Kousaku no Asia Risshi-den",
+    "studio": "-",
+    "dolzina": "26",
+    "vir": "Manga",
+    "id": "33538",
+    "tip": "TV",
+    "stevilo": "470",
+    "ocena": "N/A"
   },
   {
     "zanri": "4,20,31",
@@ -16816,7 +17190,7 @@
     "id": "18241",
     "tip": "TV",
     "stevilo": "419",
-    "ocena": "15\"><div>"
+    "ocena": "N/A"
   },
   {
     "zanri": "36,18",
@@ -16827,7 +17201,7 @@
     "id": "19445",
     "tip": "TV",
     "stevilo": "374",
-    "ocena": "15\"><div>"
+    "ocena": "N/A"
   },
   {
     "zanri": "4",
@@ -16838,7 +17212,18 @@
     "id": "21053",
     "tip": "TV",
     "stevilo": "308",
-    "ocena": "4,36\"><div>"
+    "ocena": "N/A"
+  },
+  {
+    "zanri": "4,36",
+    "naslov": "Odoriko Clinoppe",
+    "studio": "-",
+    "dolzina": "26",
+    "vir": "-",
+    "id": "18469",
+    "tip": "TV",
+    "stevilo": "233",
+    "ocena": "N/A"
   },
   {
     "zanri": "14,7,40,23",
@@ -17300,7 +17685,7 @@
     "id": "19305",
     "tip": "TV",
     "stevilo": "609",
-    "ocena": "30,15\"><div>"
+    "ocena": "N/A"
   },
   {
     "zanri": "1,4,9,23,31",
@@ -18213,7 +18598,18 @@
     "id": "22849",
     "tip": "TV",
     "stevilo": "1,097",
-    "ocena": "4,19\"><div>"
+    "ocena": "N/A"
+  },
+  {
+    "zanri": "4,19",
+    "naslov": "Nyanfuru",
+    "studio": "MMDGP",
+    "dolzina": "124",
+    "vir": "Original",
+    "id": "24845",
+    "tip": "TV",
+    "stevilo": "475",
+    "ocena": "N/A"
   },
   {
     "zanri": "4,24,13,18,20",
@@ -18224,7 +18620,7 @@
     "id": "21433",
     "tip": "TV",
     "stevilo": "443",
-    "ocena": "4,24,36,23,15\"><div>"
+    "ocena": "N/A"
   },
   {
     "zanri": "4,47",
@@ -18235,7 +18631,7 @@
     "id": "22541",
     "tip": "TV",
     "stevilo": "414",
-    "ocena": "4,15\"><div>"
+    "ocena": "N/A"
   },
   {
     "zanri": "2",
@@ -18246,7 +18642,7 @@
     "id": "35694",
     "tip": "TV",
     "stevilo": "400",
-    "ocena": "3,15\"><div>"
+    "ocena": "N/A"
   },
   {
     "zanri": "4,11,20",
@@ -18257,7 +18653,7 @@
     "id": "22755",
     "tip": "TV",
     "stevilo": "312",
-    "ocena": "15\"><div>"
+    "ocena": "N/A"
   },
   {
     "zanri": "2,4,10,37,9,11",
@@ -18862,7 +19258,7 @@
     "id": "22821",
     "tip": "TV",
     "stevilo": "397",
-    "ocena": "10,15\"><div>"
+    "ocena": "N/A"
   },
   {
     "zanri": "4,20",
@@ -18873,7 +19269,18 @@
     "id": "38363",
     "tip": "TV",
     "stevilo": "312",
-    "ocena": "4,36\"><div>"
+    "ocena": "N/A"
+  },
+  {
+    "zanri": "4,36",
+    "naslov": "Norasco (TV)",
+    "studio": "Kachidoki Studio",
+    "dolzina": "43",
+    "vir": "Original",
+    "id": "31019",
+    "tip": "TV",
+    "stevilo": "278",
+    "ocena": "N/A"
   },
   {
     "zanri": "19",
@@ -18884,7 +19291,18 @@
     "id": "29738",
     "tip": "TV",
     "stevilo": "262",
-    "ocena": "2"
+    "ocena": "N/A"
+  },
+  {
+    "zanri": "",
+    "naslov": "Astar-eul Hyanghae Chaguchagu",
+    "studio": "-",
+    "dolzina": "27",
+    "vir": "Game",
+    "id": "35605",
+    "tip": "TV",
+    "stevilo": "243",
+    "ocena": "N/A"
   },
   {
     "zanri": "1,8,14,7,37,40,42",
@@ -19841,7 +20259,7 @@
     "id": "27943",
     "tip": "TV",
     "stevilo": "1,079",
-    "ocena": "4,15\"><div>"
+    "ocena": "N/A"
   },
   {
     "zanri": "4",
@@ -19852,7 +20270,18 @@
     "id": "27519",
     "tip": "TV",
     "stevilo": "515",
-    "ocena": "1,2,24,18,38\"><div>"
+    "ocena": "N/A"
+  },
+  {
+    "zanri": "1,2,24,18,38",
+    "naslov": "Zhen Gyi Hong Shi",
+    "studio": "-",
+    "dolzina": "52",
+    "vir": "-",
+    "id": "36429",
+    "tip": "TV",
+    "stevilo": "460",
+    "ocena": "N/A"
   },
   {
     "zanri": "4,19",
@@ -19863,7 +20292,7 @@
     "id": "27521",
     "tip": "TV",
     "stevilo": "355",
-    "ocena": "2,15\"><div>"
+    "ocena": "N/A"
   },
   {
     "zanri": "1,4,23,27",
@@ -20248,7 +20677,7 @@
     "id": "33599",
     "tip": "TV",
     "stevilo": "755",
-    "ocena": "2,3,11,18,15\"><div>"
+    "ocena": "N/A"
   },
   {
     "zanri": "4,19",
@@ -20259,7 +20688,18 @@
     "id": "28247",
     "tip": "TV",
     "stevilo": "583",
-    "ocena": "4\"><div>"
+    "ocena": "N/A"
+  },
+  {
+    "zanri": "4",
+    "naslov": "Uwabaki Cook no Tekitou Uranai!",
+    "studio": "-",
+    "dolzina": "125",
+    "vir": "Original",
+    "id": "30605",
+    "tip": "TV",
+    "stevilo": "290",
+    "ocena": "N/A"
   },
   {
     "zanri": "47,9,23,27",
@@ -20787,7 +21227,7 @@
     "id": "31699",
     "tip": "TV",
     "stevilo": "510",
-    "ocena": "1,2,15\"><div>"
+    "ocena": "N/A"
   },
   {
     "zanri": "4",
@@ -20798,7 +21238,18 @@
     "id": "30411",
     "tip": "TV",
     "stevilo": "444",
-    "ocena": "4\"><div>"
+    "ocena": "N/A"
+  },
+  {
+    "zanri": "4",
+    "naslov": "Nyuru Nyuru!! Kakusen-kun 2nd Season",
+    "studio": "DLE",
+    "dolzina": "13",
+    "vir": "Original",
+    "id": "30144",
+    "tip": "TV",
+    "stevilo": "427",
+    "ocena": "N/A"
   },
   {
     "zanri": "4,20,31",
@@ -20809,7 +21260,7 @@
     "id": "30470",
     "tip": "TV",
     "stevilo": "375",
-    "ocena": "4,15\"><div>"
+    "ocena": "N/A"
   },
   {
     "zanri": "4,19",
@@ -20820,7 +21271,7 @@
     "id": "31239",
     "tip": "TV",
     "stevilo": "271",
-    "ocena": "4,24,36,23,15\"><div>"
+    "ocena": "N/A"
   },
   {
     "zanri": "8,23,31",
@@ -21337,7 +21788,18 @@
     "id": "30989",
     "tip": "TV",
     "stevilo": "528",
-    "ocena": "4,37\"><div>"
+    "ocena": "N/A"
+  },
+  {
+    "zanri": "4,37",
+    "naslov": "Kaijuu Sakaba Kanpai!",
+    "studio": "DLE",
+    "dolzina": "13",
+    "vir": "Original",
+    "id": "30777",
+    "tip": "TV",
+    "stevilo": "518",
+    "ocena": "N/A"
   },
   {
     "zanri": "4",
@@ -21348,7 +21810,18 @@
     "id": "31071",
     "tip": "TV",
     "stevilo": "454",
-    "ocena": "30\"><div>"
+    "ocena": "N/A"
+  },
+  {
+    "zanri": "30",
+    "naslov": "Yakyuubu Aruaru",
+    "studio": "-",
+    "dolzina": "3",
+    "vir": "Book",
+    "id": "31177",
+    "tip": "TV",
+    "stevilo": "329",
+    "ocena": "N/A"
   },
   {
     "zanri": "4",
@@ -21359,7 +21832,18 @@
     "id": "30893",
     "tip": "TV",
     "stevilo": "325",
-    "ocena": "4,36\"><div>"
+    "ocena": "N/A"
+  },
+  {
+    "zanri": "4,36",
+    "naslov": "Neko Enikki",
+    "studio": "Kachidoki Studio",
+    "dolzina": "13",
+    "vir": "Web manga",
+    "id": "31361",
+    "tip": "TV",
+    "stevilo": "324",
+    "ocena": "N/A"
   },
   {
     "zanri": "4,30",
@@ -21370,7 +21854,18 @@
     "id": "31237",
     "tip": "TV",
     "stevilo": "236",
-    "ocena": "2"
+    "ocena": "N/A"
+  },
+  {
+    "zanri": "",
+    "naslov": "PikkaPika Summer",
+    "studio": "-",
+    "dolzina": "31",
+    "vir": "Original",
+    "id": "31078",
+    "tip": "TV",
+    "stevilo": "214",
+    "ocena": "N/A"
   },
   {
     "zanri": "36",
@@ -21381,7 +21876,7 @@
     "id": "45704",
     "tip": "TV",
     "stevilo": "54",
-    "ocena": "2,15\"><div>"
+    "ocena": "N/A"
   },
   {
     "zanri": "1,4,24,37,20,31",
@@ -21986,7 +22481,18 @@
     "id": "31539",
     "tip": "TV",
     "stevilo": "1,129",
-    "ocena": "4,36,11,20\"><div>"
+    "ocena": "N/A"
+  },
+  {
+    "zanri": "4,36,11,20",
+    "naslov": "Mini Van 2nd Season",
+    "studio": "DLE",
+    "dolzina": "26",
+    "vir": "4-koma manga",
+    "id": "31410",
+    "tip": "TV",
+    "stevilo": "916",
+    "ocena": "6.22"
   },
   {
     "zanri": "4",
@@ -21997,7 +22503,7 @@
     "id": "31555",
     "tip": "TV",
     "stevilo": "398",
-    "ocena": "15\"><div>"
+    "ocena": "N/A"
   },
   {
     "zanri": "7,37,40,42",
@@ -22492,7 +22998,18 @@
     "id": "32402",
     "tip": "TV",
     "stevilo": "381",
-    "ocena": "2\"><div>"
+    "ocena": "N/A"
+  },
+  {
+    "zanri": "2",
+    "naslov": "Telemonster",
+    "studio": "-",
+    "dolzina": "52",
+    "vir": "Original",
+    "id": "32585",
+    "tip": "TV",
+    "stevilo": "367",
+    "ocena": "N/A"
   },
   {
     "zanri": "4",
@@ -22503,7 +23020,7 @@
     "id": "36611",
     "tip": "TV",
     "stevilo": "191",
-    "ocena": "30,15\"><div>"
+    "ocena": "N/A"
   },
   {
     "zanri": "1,4,23,31,27",
@@ -23108,7 +23625,7 @@
     "id": "33044",
     "tip": "TV",
     "stevilo": "663",
-    "ocena": "4,15\"><div>"
+    "ocena": "N/A"
   },
   {
     "zanri": "4,36",
@@ -23130,7 +23647,7 @@
     "id": "33188",
     "tip": "TV",
     "stevilo": "255",
-    "ocena": "4,24,36,23,15\"><div>"
+    "ocena": "N/A"
   },
   {
     "zanri": "36",
@@ -23141,7 +23658,7 @@
     "id": "33479",
     "tip": "TV",
     "stevilo": "226",
-    "ocena": "15\"><div>"
+    "ocena": "N/A"
   },
   {
     "zanri": "1,2,3",
@@ -23152,7 +23669,7 @@
     "id": "42740",
     "tip": "TV",
     "stevilo": "154",
-    "ocena": "4,37,15\"><div>"
+    "ocena": "N/A"
   },
   {
     "zanri": "1,4,36,37",
@@ -23658,7 +24175,7 @@
     "id": "33398",
     "tip": "TV",
     "stevilo": "1,102",
-    "ocena": "1,7,15\"><div>"
+    "ocena": "N/A"
   },
   {
     "zanri": "14,23",
@@ -23669,7 +24186,18 @@
     "id": "35319",
     "tip": "TV",
     "stevilo": "417",
-    "ocena": "4\"><div>"
+    "ocena": "N/A"
+  },
+  {
+    "zanri": "4",
+    "naslov": "PJ Berri no Mogumogu Munyamunya",
+    "studio": "Doga Kobo",
+    "dolzina": "20",
+    "vir": "Game",
+    "id": "33835",
+    "tip": "TV",
+    "stevilo": "336",
+    "ocena": "N/A"
   },
   {
     "zanri": "4",
@@ -23680,7 +24208,18 @@
     "id": "33946",
     "tip": "TV",
     "stevilo": "328",
-    "ocena": "4,19\"><div>"
+    "ocena": "N/A"
+  },
+  {
+    "zanri": "4,19",
+    "naslov": "Gra-P &amp; Rodeo II",
+    "studio": "Pie in the sky",
+    "dolzina": "27",
+    "vir": "Original",
+    "id": "33290",
+    "tip": "TV",
+    "stevilo": "325",
+    "ocena": "N/A"
   },
   {
     "zanri": "4,13",
@@ -23691,7 +24230,7 @@
     "id": "33414",
     "tip": "TV",
     "stevilo": "324",
-    "ocena": "10,15\"><div>"
+    "ocena": "N/A"
   },
   {
     "zanri": "4,36",
@@ -23702,7 +24241,7 @@
     "id": "49326",
     "tip": "TV",
     "stevilo": "17",
-    "ocena": "15\"><div>"
+    "ocena": "N/A"
   },
   {
     "zanri": "4,8,30,23,27",
@@ -24395,7 +24934,18 @@
     "id": "33933",
     "tip": "TV",
     "stevilo": "1,028",
-    "ocena": "4,37,13\"><div>"
+    "ocena": "N/A"
+  },
+  {
+    "zanri": "4,37,13",
+    "naslov": "Kamigami no Ki",
+    "studio": "Sotsu",
+    "dolzina": "16",
+    "vir": "Original",
+    "id": "34292",
+    "tip": "TV",
+    "stevilo": "792",
+    "ocena": "6.05"
   },
   {
     "zanri": "4,25",
@@ -24417,7 +24967,7 @@
     "id": "34156",
     "tip": "TV",
     "stevilo": "457",
-    "ocena": "4,14,37,15\"><div>"
+    "ocena": "N/A"
   },
   {
     "zanri": "4,36",
@@ -24428,7 +24978,7 @@
     "id": "37927",
     "tip": "TV",
     "stevilo": "167",
-    "ocena": "2,15\"><div>"
+    "ocena": "N/A"
   },
   {
     "zanri": "2,4,10,37,20",
@@ -24934,7 +25484,18 @@
     "id": "34309",
     "tip": "TV",
     "stevilo": "623",
-    "ocena": "4,20,31\"><div>"
+    "ocena": "N/A"
+  },
+  {
+    "zanri": "4,20,31",
+    "naslov": "Sentai Hero Sukiyaki Force: Gunma no Heiwa wo Negau Season",
+    "studio": "Studio 4\u00b0C",
+    "dolzina": "24",
+    "vir": "Original",
+    "id": "34456",
+    "tip": "TV",
+    "stevilo": "507",
+    "ocena": "N/A"
   },
   {
     "zanri": "4,30",
@@ -24945,7 +25506,7 @@
     "id": "33473",
     "tip": "TV",
     "stevilo": "427",
-    "ocena": "4,24,15\"><div>"
+    "ocena": "N/A"
   },
   {
     "zanri": "1,8,10,7,38,31,27",
@@ -25506,7 +26067,18 @@
     "id": "35478",
     "tip": "TV",
     "stevilo": "1,081",
-    "ocena": "4,36\"><div>"
+    "ocena": "N/A"
+  },
+  {
+    "zanri": "4,36",
+    "naslov": "World Fool News (TV) Part II",
+    "studio": "-",
+    "dolzina": "12",
+    "vir": "Other",
+    "id": "35332",
+    "tip": "TV",
+    "stevilo": "992",
+    "ocena": "5.79"
   },
   {
     "zanri": "4,19",
@@ -25561,7 +26133,18 @@
     "id": "35025",
     "tip": "TV",
     "stevilo": "612",
-    "ocena": "4,25\"><div>"
+    "ocena": "N/A"
+  },
+  {
+    "zanri": "4,25",
+    "naslov": "Ba La La Xiao Mo Xian Zhi: Feiyue Cai Ling Bao 2nd Season",
+    "studio": "Qianqi Animation",
+    "dolzina": "26",
+    "vir": "Original",
+    "id": "34669",
+    "tip": "TV",
+    "stevilo": "611",
+    "ocena": "N/A"
   },
   {
     "zanri": "37",
@@ -25572,7 +26155,18 @@
     "id": "35444",
     "tip": "TV",
     "stevilo": "526",
-    "ocena": "4,19\"><div>"
+    "ocena": "N/A"
+  },
+  {
+    "zanri": "4,19",
+    "naslov": "Caribadix",
+    "studio": "-",
+    "dolzina": "46",
+    "vir": "Original",
+    "id": "35517",
+    "tip": "TV",
+    "stevilo": "420",
+    "ocena": "N/A"
   },
   {
     "zanri": "4,24",
@@ -25583,7 +26177,18 @@
     "id": "34928",
     "tip": "TV",
     "stevilo": "411",
-    "ocena": "4\"><div>"
+    "ocena": "N/A"
+  },
+  {
+    "zanri": "4",
+    "naslov": "Akita Kenritsu Iburi Gakkou Chuutou-bu",
+    "studio": "-",
+    "dolzina": "27",
+    "vir": "Original",
+    "id": "35226",
+    "tip": "TV",
+    "stevilo": "384",
+    "ocena": "N/A"
   },
   {
     "zanri": "4",
@@ -25594,7 +26199,7 @@
     "id": "34891",
     "tip": "TV",
     "stevilo": "342",
-    "ocena": "2,3,11,18,15\"><div>"
+    "ocena": "N/A"
   },
   {
     "zanri": "4,13",
@@ -25605,7 +26210,7 @@
     "id": "36002",
     "tip": "TV",
     "stevilo": "197",
-    "ocena": "2,4,15\"><div>"
+    "ocena": "N/A"
   },
   {
     "zanri": "8,7,11,40,23,27",
@@ -26122,7 +26727,18 @@
     "id": "36231",
     "tip": "TV",
     "stevilo": "524",
-    "ocena": "4,36\"><div>"
+    "ocena": "N/A"
+  },
+  {
+    "zanri": "4,36",
+    "naslov": "Yura Yura Suizokukan",
+    "studio": "Kachidoki Studio",
+    "dolzina": "40",
+    "vir": "Original",
+    "id": "35957",
+    "tip": "TV",
+    "stevilo": "400",
+    "ocena": "N/A"
   },
   {
     "zanri": "36,11",
@@ -26133,7 +26749,18 @@
     "id": "37263",
     "tip": "TV",
     "stevilo": "302",
-    "ocena": "4\"><div>"
+    "ocena": "N/A"
+  },
+  {
+    "zanri": "4",
+    "naslov": "PJ Berri no Mogumogu Munyamunya Season 2",
+    "studio": "Doga Kobo",
+    "dolzina": "6",
+    "vir": "Game",
+    "id": "35963",
+    "tip": "TV",
+    "stevilo": "283",
+    "ocena": "N/A"
   },
   {
     "zanri": "4",
@@ -26144,7 +26771,7 @@
     "id": "35914",
     "tip": "TV",
     "stevilo": "253",
-    "ocena": "10,15\"><div>"
+    "ocena": "N/A"
   },
   {
     "zanri": "1,4,10,27",
@@ -26716,7 +27343,18 @@
     "id": "36135",
     "tip": "TV",
     "stevilo": "1,658",
-    "ocena": "2,4,13,18\"><div>"
+    "ocena": "N/A"
+  },
+  {
+    "zanri": "2,4,13,18",
+    "naslov": "Time Bokan: Gyakushuu no San Akunin",
+    "studio": "Tatsunoko Production",
+    "dolzina": "24",
+    "vir": "Original",
+    "id": "35254",
+    "tip": "TV",
+    "stevilo": "1,628",
+    "ocena": "5.96"
   },
   {
     "zanri": "4,19",
@@ -26738,7 +27376,18 @@
     "id": "40089",
     "tip": "TV",
     "stevilo": "435",
-    "ocena": "4\"><div>"
+    "ocena": "N/A"
+  },
+  {
+    "zanri": "4",
+    "naslov": "Aiseki Mogol Girl",
+    "studio": "-",
+    "dolzina": "12",
+    "vir": "Other",
+    "id": "36073",
+    "tip": "TV",
+    "stevilo": "410",
+    "ocena": "N/A"
   },
   {
     "zanri": "",
@@ -26749,7 +27398,7 @@
     "id": "40090",
     "tip": "TV",
     "stevilo": "282",
-    "ocena": "1,24,15\"><div>"
+    "ocena": "N/A"
   },
   {
     "zanri": "8,10,36",
@@ -27288,7 +27937,7 @@
     "id": "37054",
     "tip": "TV",
     "stevilo": "269",
-    "ocena": "15\"><div>"
+    "ocena": "N/A"
   },
   {
     "zanri": "1,4,30",
@@ -27299,7 +27948,7 @@
     "id": "48510",
     "tip": "TV",
     "stevilo": "92",
-    "ocena": "0"
+    "ocena": "N/A"
   },
   {
     "zanri": "1,4,23,31,27",
@@ -27981,7 +28630,7 @@
     "id": "37467",
     "tip": "TV",
     "stevilo": "630",
-    "ocena": "4,10,7,15\"><div>"
+    "ocena": "N/A"
   },
   {
     "zanri": "4",
@@ -27992,7 +28641,18 @@
     "id": "37325",
     "tip": "TV",
     "stevilo": "518",
-    "ocena": "14,6,20\"><div>"
+    "ocena": "N/A"
+  },
+  {
+    "zanri": "14,6,20",
+    "naslov": "Oretacha Youkai Ningen G",
+    "studio": "DLE",
+    "dolzina": "26",
+    "vir": "Original",
+    "id": "37559",
+    "tip": "TV",
+    "stevilo": "488",
+    "ocena": "N/A"
   },
   {
     "zanri": "4",
@@ -28003,7 +28663,18 @@
     "id": "37359",
     "tip": "TV",
     "stevilo": "369",
-    "ocena": "4,19\"><div>"
+    "ocena": "N/A"
+  },
+  {
+    "zanri": "4,19",
+    "naslov": "Caribadix 2nd Season",
+    "studio": "-",
+    "dolzina": "39",
+    "vir": "Original",
+    "id": "37653",
+    "tip": "TV",
+    "stevilo": "269",
+    "ocena": "N/A"
   },
   {
     "zanri": "1,8,10,7,38,31,27",
@@ -28531,7 +29202,18 @@
     "id": "37328",
     "tip": "TV",
     "stevilo": "865",
-    "ocena": "4,36\"><div>"
+    "ocena": "N/A"
+  },
+  {
+    "zanri": "4,36",
+    "naslov": "Okojo to Yamane",
+    "studio": "Kachidoki Studio",
+    "dolzina": "26",
+    "vir": "Other",
+    "id": "37780",
+    "tip": "TV",
+    "stevilo": "793",
+    "ocena": "N/A"
   },
   {
     "zanri": "1,4,10",
@@ -28542,7 +29224,18 @@
     "id": "43684",
     "tip": "TV",
     "stevilo": "708",
-    "ocena": "2,29\"><div>"
+    "ocena": "N/A"
+  },
+  {
+    "zanri": "2,29",
+    "naslov": "Space Bug",
+    "studio": "P.I.C.S.",
+    "dolzina": "26",
+    "vir": "Original",
+    "id": "37787",
+    "tip": "TV",
+    "stevilo": "615",
+    "ocena": "N/A"
   },
   {
     "zanri": "4,36",
@@ -28553,7 +29246,18 @@
     "id": "38016",
     "tip": "TV",
     "stevilo": "356",
-    "ocena": "4,10\"><div>"
+    "ocena": "N/A"
+  },
+  {
+    "zanri": "4,10",
+    "naslov": "Kaeru Ouji to Imomushi Henry",
+    "studio": "-",
+    "dolzina": "130",
+    "vir": "Other",
+    "id": "38010",
+    "tip": "TV",
+    "stevilo": "291",
+    "ocena": "N/A"
   },
   {
     "zanri": "4,36",
@@ -28564,7 +29268,7 @@
     "id": "38008",
     "tip": "TV",
     "stevilo": "228",
-    "ocena": "3,15\"><div>"
+    "ocena": "N/A"
   },
   {
     "zanri": "4,8,22,37,23",
@@ -29147,7 +29851,7 @@
     "id": "40249",
     "tip": "TV",
     "stevilo": "918",
-    "ocena": "10,36,15\"><div>"
+    "ocena": "N/A"
   },
   {
     "zanri": "1,4,10,24,20",
@@ -29158,7 +29862,18 @@
     "id": "38365",
     "tip": "TV",
     "stevilo": "375",
-    "ocena": "2,36\"><div>"
+    "ocena": "N/A"
+  },
+  {
+    "zanri": "2,36",
+    "naslov": "Hoshi no Shima no Nyanko",
+    "studio": "Animation Planet",
+    "dolzina": "26",
+    "vir": "Game",
+    "id": "38147",
+    "tip": "TV",
+    "stevilo": "362",
+    "ocena": "N/A"
   },
   {
     "zanri": "36",
@@ -29169,7 +29884,7 @@
     "id": "38776",
     "tip": "TV",
     "stevilo": "325",
-    "ocena": "2,3,15\"><div>"
+    "ocena": "N/A"
   },
   {
     "zanri": "4",
@@ -29180,7 +29895,7 @@
     "id": "38427",
     "tip": "TV",
     "stevilo": "206",
-    "ocena": "36,15\"><div>"
+    "ocena": "N/A"
   },
   {
     "zanri": "1,4,30",
@@ -29191,7 +29906,7 @@
     "id": "48290",
     "tip": "TV",
     "stevilo": "71",
-    "ocena": "11,15\"><div>"
+    "ocena": "N/A"
   },
   {
     "zanri": "14,7,24,41,40,27",
@@ -29642,7 +30357,7 @@
     "id": "39007",
     "tip": "TV",
     "stevilo": "794",
-    "ocena": "1,4,22,15\"><div>"
+    "ocena": "N/A"
   },
   {
     "zanri": "4",
@@ -29653,7 +30368,18 @@
     "id": "39003",
     "tip": "TV",
     "stevilo": "436",
-    "ocena": "4,42\"><div>"
+    "ocena": "N/A"
+  },
+  {
+    "zanri": "4,42",
+    "naslov": "Mannaka no Rikkun@Kin Tele",
+    "studio": "Sakura Create",
+    "dolzina": "12",
+    "vir": "Manga",
+    "id": "37560",
+    "tip": "TV",
+    "stevilo": "380",
+    "ocena": "N/A"
   },
   {
     "zanri": "37",
@@ -29664,7 +30390,7 @@
     "id": "39029",
     "tip": "TV",
     "stevilo": "294",
-    "ocena": "2,10,15\"><div>"
+    "ocena": "N/A"
   },
   {
     "zanri": "1,37,6,13,27",
@@ -30126,7 +30852,18 @@
     "id": "38881",
     "tip": "TV",
     "stevilo": "1,628",
-    "ocena": "2,4,10\"><div>"
+    "ocena": "N/A"
+  },
+  {
+    "zanri": "2,4,10",
+    "naslov": "Wangu Xian Qiong III: Eren Gu Pian",
+    "studio": "ASK Animation Studio",
+    "dolzina": "13",
+    "vir": "Novel",
+    "id": "39572",
+    "tip": "TV",
+    "stevilo": "1,135",
+    "ocena": "6.49"
   },
   {
     "zanri": "2,4",
@@ -30148,7 +30885,18 @@
     "id": "39031",
     "tip": "TV",
     "stevilo": "556",
-    "ocena": "4,36,42\"><div>"
+    "ocena": "N/A"
+  },
+  {
+    "zanri": "4,36,42",
+    "naslov": "Shounen Ashibe: Go! Go! Goma-chan 4",
+    "studio": "Studio Palette",
+    "dolzina": "24",
+    "vir": "4-koma manga",
+    "id": "39457",
+    "tip": "TV",
+    "stevilo": "550",
+    "ocena": "5.99"
   },
   {
     "zanri": "1,2,4,10,27",
@@ -30159,7 +30907,7 @@
     "id": "39040",
     "tip": "TV",
     "stevilo": "436",
-    "ocena": "11,15\"><div>"
+    "ocena": "N/A"
   },
   {
     "zanri": "4",
@@ -30170,7 +30918,7 @@
     "id": "39635",
     "tip": "TV",
     "stevilo": "220",
-    "ocena": "24,13,31,15\"><div>"
+    "ocena": "N/A"
   },
   {
     "zanri": "2,4,24,27",
@@ -30577,7 +31325,7 @@
     "id": "39978",
     "tip": "TV",
     "stevilo": "656",
-    "ocena": "4,15\"><div>"
+    "ocena": "N/A"
   },
   {
     "zanri": "4,36",
@@ -30588,7 +31336,7 @@
     "id": "44026",
     "tip": "TV",
     "stevilo": "117",
-    "ocena": "11,15\"><div>"
+    "ocena": "N/A"
   },
   {
     "zanri": "1,4,23,31,27",
@@ -31094,7 +31842,18 @@
     "id": "40423",
     "tip": "TV",
     "stevilo": "435",
-    "ocena": "4,10\"><div>"
+    "ocena": "N/A"
+  },
+  {
+    "zanri": "4,10",
+    "naslov": "Eily wa Ou-sama!",
+    "studio": "-",
+    "dolzina": "10",
+    "vir": "Original",
+    "id": "40487",
+    "tip": "TV",
+    "stevilo": "324",
+    "ocena": "N/A"
   },
   {
     "zanri": "4,10,30,20",
@@ -31105,7 +31864,7 @@
     "id": "40832",
     "tip": "TV",
     "stevilo": "174",
-    "ocena": "4,15\"><div>"
+    "ocena": "N/A"
   },
   {
     "zanri": "4,8,30,23,27",
@@ -31578,7 +32337,18 @@
     "id": "40758",
     "tip": "TV",
     "stevilo": "769",
-    "ocena": "4\"><div>"
+    "ocena": "N/A"
+  },
+  {
+    "zanri": "4",
+    "naslov": "Marumaru Manul",
+    "studio": "Kachidoki Studio",
+    "dolzina": "50",
+    "vir": "Digital manga",
+    "id": "40939",
+    "tip": "TV",
+    "stevilo": "527",
+    "ocena": "N/A"
   },
   {
     "zanri": "4,22,40,23,42",
@@ -32018,7 +32788,18 @@
     "id": "41426",
     "tip": "TV",
     "stevilo": "1,159",
-    "ocena": "1,2,24,18\"><div>"
+    "ocena": "N/A"
+  },
+  {
+    "zanri": "1,2,24,18",
+    "naslov": "Tomica Kizuna Gattai: Earth Granner",
+    "studio": "OLM",
+    "dolzina": "51",
+    "vir": "Other",
+    "id": "41062",
+    "tip": "TV",
+    "stevilo": "1,109",
+    "ocena": "5.99"
   },
   {
     "zanri": "2,4",
@@ -32040,7 +32821,18 @@
     "id": "43729",
     "tip": "TV",
     "stevilo": "798",
-    "ocena": "4,37\"><div>"
+    "ocena": "N/A"
+  },
+  {
+    "zanri": "4,37",
+    "naslov": "Anoyo no Subete wa, Obake-gumi!",
+    "studio": "-",
+    "dolzina": "34",
+    "vir": "Original",
+    "id": "41440",
+    "tip": "TV",
+    "stevilo": "714",
+    "ocena": "N/A"
   },
   {
     "zanri": "4,10",
@@ -32062,7 +32854,7 @@
     "id": "41349",
     "tip": "TV",
     "stevilo": "305",
-    "ocena": "13,20,21,15\"><div>"
+    "ocena": "N/A"
   },
   {
     "zanri": "4,10,30,20",
@@ -32073,7 +32865,7 @@
     "id": "41951",
     "tip": "TV",
     "stevilo": "153",
-    "ocena": "4,10,7,15\"><div>"
+    "ocena": "N/A"
   },
   {
     "zanri": "8,10,41,40",
@@ -32315,7 +33107,18 @@
     "id": "41807",
     "tip": "TV",
     "stevilo": "947",
-    "ocena": "4,36\"><div>"
+    "ocena": "N/A"
+  },
+  {
+    "zanri": "4,36",
+    "naslov": "Hulaing Babies Aratame: Staying Babies",
+    "studio": "Fukushima Gaina",
+    "dolzina": "4",
+    "vir": "Original",
+    "id": "42145",
+    "tip": "TV",
+    "stevilo": "633",
+    "ocena": "5.26"
   },
   {
     "zanri": "36",
@@ -32326,7 +33129,7 @@
     "id": "42090",
     "tip": "TV",
     "stevilo": "265",
-    "ocena": "4,36,15\"><div>"
+    "ocena": "N/A"
   },
   {
     "zanri": "1,37,6,23,27",
@@ -32832,7 +33635,7 @@
     "id": "44056",
     "tip": "TV",
     "stevilo": "2,995",
-    "ocena": "4,15\"><div>"
+    "ocena": "N/A"
   },
   {
     "zanri": "4,20,31",
@@ -32854,7 +33657,18 @@
     "id": "42482",
     "tip": "TV",
     "stevilo": "880",
-    "ocena": "4,24\"><div>"
+    "ocena": "N/A"
+  },
+  {
+    "zanri": "4,24",
+    "naslov": "Geb\u00e4ude B\u00e4ude",
+    "studio": "Jinnis Animation Studios",
+    "dolzina": "10",
+    "vir": "Original",
+    "id": "43350",
+    "tip": "TV",
+    "stevilo": "856",
+    "ocena": "6.18"
   },
   {
     "zanri": "4",
@@ -32865,7 +33679,7 @@
     "id": "43416",
     "tip": "TV",
     "stevilo": "376",
-    "ocena": "4,37,15\"><div>"
+    "ocena": "N/A"
   },
   {
     "zanri": "1,8,10,7,38,31,27",
@@ -33481,7 +34295,7 @@
     "id": "45596",
     "tip": "TV",
     "stevilo": "552",
-    "ocena": "4,15\"><div>"
+    "ocena": "N/A"
   },
   {
     "zanri": "1,4,23,31,27",
@@ -33987,7 +34801,7 @@
     "id": "45618",
     "tip": "TV",
     "stevilo": "1,736",
-    "ocena": "4,37,6,15\"><div>"
+    "ocena": "N/A"
   },
   {
     "zanri": "36",
@@ -33998,7 +34812,7 @@
     "id": "48442",
     "tip": "TV",
     "stevilo": "1,237",
-    "ocena": "2,10,15,25\"><div>"
+    "ocena": "N/A"
   },
   {
     "zanri": "10,11",
@@ -34020,7 +34834,7 @@
     "id": "42870",
     "tip": "TV",
     "stevilo": "506",
-    "ocena": "2,4,15\"><div>"
+    "ocena": "N/A"
   },
   {
     "zanri": "36,19",
@@ -34031,7 +34845,7 @@
     "id": "42068",
     "tip": "TV",
     "stevilo": "337",
-    "ocena": "15\"><div>"
+    "ocena": "N/A"
   },
   {
     "zanri": "4",
@@ -34042,7 +34856,7 @@
     "id": "48770",
     "tip": "TV",
     "stevilo": "299",
-    "ocena": "4,17,15\"><div>"
+    "ocena": "N/A"
   },
   {
     "zanri": "1,2,4,10,6",
@@ -34460,7 +35274,7 @@
     "id": "48859",
     "tip": "TV",
     "stevilo": "1,503",
-    "ocena": "1,4,15\"><div>"
+    "ocena": "N/A"
   },
   {
     "zanri": "4,36,23,27",
@@ -34856,7 +35670,18 @@
     "id": "38749",
     "tip": "TV",
     "stevilo": "13,643",
-    "ocena": "8,10,36\"><div>"
+    "ocena": "N/A"
+  },
+  {
+    "zanri": "8,10,36",
+    "naslov": "Yuuki Yuuna wa Yuusha de Aru: Dai Mankai no Shou",
+    "studio": "Studio Gokumi",
+    "dolzina": "12",
+    "vir": "Original",
+    "id": "42587",
+    "tip": "TV",
+    "stevilo": "13,273",
+    "ocena": "7.26"
   },
   {
     "zanri": "1,2,4,7,42",
@@ -34966,7 +35791,18 @@
     "id": "49664",
     "tip": "TV",
     "stevilo": "814",
-    "ocena": "36\"><div>"
+    "ocena": "N/A"
+  },
+  {
+    "zanri": "36",
+    "naslov": "Chickip Dancers",
+    "studio": "Fanworks",
+    "dolzina": "?",
+    "vir": "Other",
+    "id": "47623",
+    "tip": "TV",
+    "stevilo": "525",
+    "ocena": "N/A"
   },
   {
     "zanri": "36",
@@ -34977,6 +35813,6 @@
     "id": "49184",
     "tip": "TV",
     "stevilo": "343",
-    "ocena": "4,15\"><div>"
+    "ocena": "N/A"
   }
 ]
